@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://itzhukov.dev/</loc><changefreq>monthly</changefreq><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/" />
+  </url>
+  <url><loc>https://itzhukov.dev/about</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/about" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/about" />
+  </url>
+  <url><loc>https://itzhukov.dev/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/contact" />
+  </url>
+  <url><loc>https://itzhukov.dev/resume</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/resume" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/resume" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/resume" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/resume" />
+  </url>
+  <url><loc>https://itzhukov.dev/manifesto</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/manifesto" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/manifesto" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/manifesto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/manifesto" />
+  </url>
+  <url><loc>https://itzhukov.dev/ru</loc><changefreq>monthly</changefreq><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/" />
+  </url>
+  <url><loc>https://itzhukov.dev/ru/about</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/about" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/about" />
+  </url>
+  <url><loc>https://itzhukov.dev/ru/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/contact" />
+  </url>
+  <url><loc>https://itzhukov.dev/ru/resume</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/resume" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/resume" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/resume" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/resume" />
+  </url>
+  <url><loc>https://itzhukov.dev/ru/manifesto</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/manifesto" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/manifesto" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/manifesto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/manifesto" />
+  </url>
+  <url><loc>https://itzhukov.dev/ja</loc><changefreq>monthly</changefreq><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/" />
+  </url>
+  <url><loc>https://itzhukov.dev/ja/about</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/about" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/about" />
+  </url>
+  <url><loc>https://itzhukov.dev/ja/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/contact" />
+  </url>
+  <url><loc>https://itzhukov.dev/ja/resume</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/resume" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/resume" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/resume" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/resume" />
+  </url>
+  <url><loc>https://itzhukov.dev/ja/manifesto</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://itzhukov.dev/manifesto" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://itzhukov.dev/ru/manifesto" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://itzhukov.dev/ja/manifesto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://itzhukov.dev/manifesto" />
+  </url>
+</urlset>
